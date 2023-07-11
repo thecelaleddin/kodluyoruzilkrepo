@@ -1,30 +1,32 @@
 #Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://wwww.kodluyoruz.org) veri bilimi eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet de index.html dosyası barındırıyor.
-![görsel](https://github.com/thecelaleddin/kodluyoruzilkrepo/blob/main/github.png)
+Bu repo [Kodluyoruz](https://kodluyoruz.org) veri bilimi eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet de index.html dosyası barındırıyor.
 
-##İnstallation
+![ilk görsel](github.png)
 
-Öncelikle projeyi klonlayın.
+##Installation
 
-'''
-https://github.com/thecelaleddin/kodluyoruzilkrepo.git 
-'''
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-##Usage
+```
+git clone https://github.com/thecelaleddin/kodluyoruzilkrepo.git
+```
 
-Projeyi klonladıktan sonra Visual Studio Code programında açınız.
+##Usage 
 
-Linux için;
-'''
-cd kodluyoruzilrepo
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```
+cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ##Contributing
 
-Pull requastler kabul edilir. Büyük değişiklikler için, Lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ##License
 
-[MİT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
+
