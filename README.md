@@ -7,15 +7,19 @@ Bu repo [Kodluyoruz](https://wwww.kodluyoruz.org) veri bilimi eğitiminde oluşt
 
 Öncelikle projeyi klonlayın.
 
-'''https://github.com/thecelaleddin/kodluyoruzilkrepo.git'''
+'''
+https://github.com/thecelaleddin/kodluyoruzilkrepo.git 
+'''
 
 ##Usage
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
-'''cd kodluyoruzilrepo
-code .'''
+'''
+cd kodluyoruzilrepo
+code .
+'''
 
 ##Contributing
 
